@@ -1,15 +1,15 @@
 {
-  "name": "react-webpack-starter-kit",
+  "name": "sql-project-frontend",
   "version": "1.0.0",
   "description": "Sample reactJS project with redux, bootstrap and webpack.",
-  "main": "dist/react-webpack-starter-kit.js",
-  "author": "Michał Psota",
+  "main": "dist/sql-project-frontend.js",
+  "author": "Dorota Psota",
   "license": "MIT",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start-prod || npm run start-dev",
-    "start-dev": "webpack-dev-server --progress --inline --host 0.0.0.0 --colors --history-api-fallback",
+    "start-dev": "webpack-dev-server --progress --inline --host localhost --colors --history-api-fallback",
     "start-prod": "webpack && node ./js/server.js",
-    "hot-dev-server": "webpack-dev-server --hot --progress --colors --inline --host 0.0.0.0 --history-api-fallback",
+    "hot-dev-server": "webpack-dev-server --hot --progress --colors --inline --host localhost --history-api-fallback",
     "build": "webpack --progress --profile --colors"
   },
   "devDependencies": {
@@ -49,15 +49,18 @@
     "webpack-dev-server": "^1.6.5"
   },
   "dependencies": {
+    "chart.js": "^1.1.1",
     "compression": "^1.6.1",
     "express": "^4.13.4",
     "if-env": "^1.0.0",
     "immutable": "^3.8.1",
     "plotly.js": "^1.6.0",
-    "react": "^0.14.7",
+    "react": "^0.14.8",
     "react-bootstrap": "^0.29.0",
     "react-bootstrap-combobox": "^3.0.1",
-    "react-dom": "^0.14.7",
+    "react-chartjs": "^0.8.0",
+    "react-dom": "^0.14.8",
+    "react-donut-chart": "^1.0.3",
     "react-redux": "^4.4.5",
     "react-router": "^2.3.0",
     "redux": "^3.5.1",

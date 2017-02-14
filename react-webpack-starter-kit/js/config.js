@@ -1,4 +1,6 @@
 // copy as config.js
-export const HOST = 'http://127.0.0.1'
-export const PORT = '8080'
-export const WS_URI = 'ws://127.0.0.1:8081/'
+window.HOST = 'http://localhost'
+window.PORT = '8080'
+window.BACKEND_PORT = '5000'
+
+console.log("Backend port: ", window.BACKEND_PORT)
