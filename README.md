@@ -1,7 +1,7 @@
 # SQL-Flask-ReactJS-project
 
 ##Description:
-This is university project for SQL lab. My task was use to SQL to create application which is using database.
+This is a university project for SQL lab. My task was to use a SQL language to create application connected to database.
 
 
 ## Usage:
