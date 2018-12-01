@@ -5,7 +5,7 @@ This is a university project for SQL lab. My task was to use a SQL language to c
 
 
 ## Usage:
-You need Flask framework and some libraries, you can install it using command: <br />
+You need Flask framework and some libraries, you can install them using commands: <br />
 $ pip install -r requirements.txt <br />
 You need also the newest version of NodeJS (details about installation available in README.md in folder "react-webpack-starter-kit") <br />
 After installation write command in main folder:
