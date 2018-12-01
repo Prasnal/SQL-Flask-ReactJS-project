@@ -17,7 +17,7 @@ $ npm start <br />
 now application is available at page http://127.0.0.1:8080/
 <br />
 <br />
-It's university program. Because of short deadline I don't have time to do all functions I wanted. 
+It's university program. Because of short deadline I didn't have enought time to do all functions I wanted. 
 <br />
 
 ## TODO: <br />
