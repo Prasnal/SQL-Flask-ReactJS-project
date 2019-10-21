@@ -87,7 +87,7 @@ uTidylib==0.2
 vboxapi==1.0
 virtualenv==14.0.6
 WebOb==1.6.0
-Werkzeug==0.11.15
+Werkzeug==0.15.3
 wrapt==1.10.8
 wxPython==2.8.12.1
 wxPython-common==2.8.12.1
