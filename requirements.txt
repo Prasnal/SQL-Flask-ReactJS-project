@@ -25,7 +25,7 @@ html5lib==0.999
 httplib2==0.8
 ipython==1.2.1
 itsdangerous==0.24
-Jinja2==2.9.1
+Jinja2==2.11.3
 liblarch==2.1.0
 lockfile==0.8
 lxml==3.3.3
