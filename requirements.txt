@@ -68,7 +68,7 @@ python-graph-core==1.8.2
 python-graph-dot==1.8.2
 pytz==2012rc0
 pyxdg==0.25
-PyYAML==3.12
+PyYAML==5.4
 reportlab==3.0
 repoze.lru==0.6
 requests==2.2.1
