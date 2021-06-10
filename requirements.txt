@@ -11,7 +11,7 @@ debtcollector==1.4.0
 decorator==4.0.9
 defer==1.0.6
 dirspec==13.10
-Django==1.10.2
+Django==2.2.24
 django-ckeditor==5.1.1
 dnspython==1.11.1
 duplicity==0.6.23
