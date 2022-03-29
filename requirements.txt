@@ -42,7 +42,7 @@ oneconf==0.3.7.14.4.1
 oslo.config==3.9.0
 ovs==2.6.0.dev1
 PAM==0.4.2
-paramiko==1.10.1
+paramiko==2.10.1
 pbr==1.9.1
 pexpect==3.1
 Pillow==3.4.1
