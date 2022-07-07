@@ -71,7 +71,7 @@ pyxdg==0.25
 PyYAML==3.12
 reportlab==3.0
 repoze.lru==0.6
-requests==2.2.1
+requests==2.20.0
 Routes==2.3.1
 ryu==4.2
 scipy==0.13.3
